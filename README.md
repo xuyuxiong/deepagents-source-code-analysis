@@ -108,5 +108,3 @@ pnpm docs:build
 MIT License
 
 ---
-
-**维护者**: 数字马力 - 前端开发团队
