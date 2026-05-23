@@ -64,7 +64,8 @@ Thumbs.db
 
 # Package manager files
 .pnpm-store/
-package-lock.json
+# Allow package-lock.json for consistent builds
+# package-lock.json
 yarn.lock
 pnpm-lock.yaml
 
