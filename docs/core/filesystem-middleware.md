@@ -441,4 +441,4 @@ def wrap_tool_call(
 
 - [BackendProtocol](/core/backend-protocol)：深入理解后端协议
 - [StateBackend](/core/state-backend)：深入理解状态后端
-- [权限控制](/advanced/permissions)：学习更多权限配置技巧
+- [权限控制](/core/tool-exclusion)：学习更多权限配置技巧

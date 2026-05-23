@@ -399,6 +399,6 @@ agent = create_deep_agent(
 
 ## 下一步
 
-- [HarnessProfile 源码](/core/harness-profile)：深入理解 Profile 实现
-- [ProviderProfile 源码](/core/provider-profile)：深入理解 Provider 配置
+- [HarnessProfile 源码](/architecture/profile-system#harnessprofile)：深入理解 Profile 实现
+- [ProviderProfile 源码](/architecture/profile-system#providerprofile)：深入理解 Provider 配置
 - [create_deep_agent](/core/create-deep-agent)：入口函数的完整实现分析
