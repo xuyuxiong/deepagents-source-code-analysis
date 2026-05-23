@@ -1,0 +1,17 @@
+{
+  "name": "deepagents-source-code-analysis",
+  "version": "1.0.0",
+  "description": "Deep Agents 源码深度解析",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "keywords": ["deepagents", "langchain", "langgraph", "ai-agent", "source-code-analysis"],
+  "author": "xuyuxiong",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}
